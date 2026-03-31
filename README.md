@@ -46,10 +46,19 @@
 - .
 
 ## 📸 صور من البرنامج (Screenshots)
-> نصيحة: ارفع صور لبرنامجك في فولدر اسمه `screenshots` وحط الروابط هنا.
-![Main Screen](https://via.placeholder.com/800x400?text=Main+Dashboard+Screenshot)
+<div>
+    <p><i>واجهة لوحة التحكم الرئيسية والرسوم البيانية</i></p>
+!<img width="500" height="500" src="https://github.com/user-attachments/assets/044e8295-8d98-4a79-970a-61ab6bf6f029" alt="واجهة البرنامج الرئيسية">
+    <p><i>احصائيات المشتريات</i></p>
+!<img width="500" height="500" src="https://github.com/user-attachments/assets/2b0476ce-fd9c-4bfb-ad73-4e3a67561911" alt="احصائيات المشتريات">
+    <p><i>احصائيات المبيعات</i></p>
+!<img width="500" height="500" src="https://github.com/user-attachments/assets/0f1d5f8e-c765-4e74-9622-0490f5c060d8" alt="احصائيات المبيعات">
+      <p><i>ااجراء فاتورة بيع</i></p>
+!<img width="500" height="500" src="https://github.com/user-attachments/assets/74526c9f-98d8-484b-88ed-cd950d415f48" alt="اجراء فاتورة بيع">
+</div>
 
----
+
+
 
 ## 📥 التحميل (Installation)
 
