@@ -1,5 +1,5 @@
 # 🚀 Smart Daftar (سمارت دفتر)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/YOUR_USER/YOUR_REPO/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/michaelEmad02/Smart-Daftar/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
 <div align="right" dir="rtl">
