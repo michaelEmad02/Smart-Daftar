@@ -1,5 +1,5 @@
 # 🚀 Smart Daftar (سمارت دفتر)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/michaelEmad02/Smart-Daftar/releases)
+[![Version](https://img.shields.io/badge/version-2.2.0-blue.svg)](https://github.com/michaelEmad02/Smart-Daftar/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
 <div align="right" dir="rtl">
@@ -8,6 +8,8 @@
 ---
 
 ## ✨ المميزات (Features)
+  - يوجد نسختين من السيستم (Lite - Pro) . يمكنك اختيار النسخه المتوافقه مع متطلباتك .
+  - يوجد نظام اشتراكات (شهري - سنوي - مدي الحياة )
   - 📊 **واجهة مستخدم سهلة و قابلة للتعديل:** تصميم عصري وبسيط يناسب جميع المستخدمين. قابل للتعديل و يوجد عشرات الثيمات .
   - 💾 **قاعدة بيانات قوية:** يعتمد على SQL Server لضمان سرعة واستقرار البيانات.
   - 🔄 **التحديث التلقائي و اللحظي للبيانات:** عند تغيير بيانات يتم التقاطها لحظيا في البرنامج و هذا يزيد من سرعه البرنامج بشكل كبير و خصوصا اذا كان يعمل علي اكثر من جهاز في شبكه.
